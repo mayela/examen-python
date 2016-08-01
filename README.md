@@ -18,7 +18,7 @@ Para las clases se debe usar camelcase y para las variables guiones bajos, por e
 
 * ¿Cómo documentas una clase?
 
-Con triples comillas """"""
+Con triples comillas ``` """""" ```
 
 * ¿Cuáles son los métodos especiales de una clse de Python?
 Son métodos en los cuales su nombre está rodeado por dobles guiones bajos (__init__) y que son usados para aññadir cierta funcionalidad extra a las clases en Python.
