@@ -33,7 +33,7 @@ Son métodos en los cuales su nombre está rodeado por dobles guiones bajos (__i
 
 * [Crea en Python una lista doblemente ligada]()
 
-* [Crea una clase de tipo animal abstracta que tenga funciones de comer, caminar, mirar y crea dos clases, una de tipo gato que tenga un método de mauyar, dormir y que sobreescriba caminar y una clase de tipo perro que tenga los métodos ladrar, dormir y que sobreescriba el método comer]()
+* [Crea una clase de tipo animal abstracta que tenga funciones de comer, caminar, mirar y crea dos clases, una de tipo gato que tenga un método de mauyar, dormir y que sobreescriba caminar y una clase de tipo perro que tenga los métodos ladrar, dormir y que sobreescriba el método comer](https://github.com/mayela/examen-python/blob/master/examen-2.py)
 
 ## Web services 
 
